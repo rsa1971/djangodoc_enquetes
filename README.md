@@ -9,9 +9,9 @@ python -m venv .venv
 """
 
 """
-Para ativar o virtuaenv
+Para ativar o virtualenv
 
-.venv\Script\activate
+.venv\Scripts\activate
 
 (.venv) C:\Users\Renato\PycharmProjects\djangodoc_enquetes>
 
